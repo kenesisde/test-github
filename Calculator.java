@@ -12,10 +12,15 @@ public class Calculator{
     return a+b;
   }
 
-  private static int minus(int a, int b,GPU){
-    if(GPU==NULL)
-      return a-b;
-    else
-      return a-b;
+  private static int minus(int a, int b){
+    return a-b;
+  }
+
+  private static int div(int a, int b){
+    return a/b;
+  }
+
+  private static int mul(int a, int b){
+    return a*b;
   }
 }
