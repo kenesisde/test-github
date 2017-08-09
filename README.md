@@ -4,5 +4,5 @@
 
 # Edit Info
  * When : 2017/08/08 - 2017/08/09
- * where : Sogang OSS Seminar
+ * Where : Sogang OSS Seminar
  * Who : kenesisde
